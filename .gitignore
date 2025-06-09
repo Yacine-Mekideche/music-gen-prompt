@@ -1,0 +1,24 @@
+# Ignorer l'environnement virtuel
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers de config
+.env
+.env.*
+
+# Cache Streamlit
+.streamlit/config.toml
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
