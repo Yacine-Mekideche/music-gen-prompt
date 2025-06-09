@@ -1,0 +1,7 @@
+title: IAcine MusicGen 🎵
+description: Generate original music from text prompts using OpenAI & Meta’s MusicGen – powered by Streamlit and Python.
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+show_downloads: true
